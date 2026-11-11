@@ -1,0 +1,18 @@
+[
+  {
+    "source": "notes_extra.txt",
+    "text": "Python 的标准库提供了大量模块，如 os、sys、json、re 等，用于处理系统调用、数据序列化、正则表达式等常见任务。"
+  },
+  {
+    "source": "notes_filler.txt",
+    "text": "机器学习常用的库包括 scikit-learn、TensorFlow 和 PyTorch。数据可视化常用 Matplotlib 和 Seaborn。"
+  },
+  {
+    "source": "notes_python.txt",
+    "text": "装饰器的本质是接收一个函数并返回一个新函数，它允许在不修改原函数代码的情况下增加额外功能，本质上是高阶函数。闭包是指在一个内部函数中引用了外部函数的变量，即使外部函数已经执行完毕，内部函数依然可以访问这些变量，这种机制称为闭包。"
+  },
+  {
+    "source": "notes_python.txt",
+    "text": "依然可以访问这些变量，这种机制称为闭包。async/await 是 Python 异步编程的语法糖，解决了回调地狱（callback hell）问题，让异步代码以同步风格编写，提高代码可读性并简化错误处理。"
+  }
+]

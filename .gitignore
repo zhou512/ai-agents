@@ -1,0 +1,21 @@
+# ---- 虚拟环境 ----
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# ---- 密钥（绝不提交）----
+.env
+*.env.local
+
+# ---- 编辑器 / 笔记工具 ----
+.vscode/
+.idea/
+.crossnote/
+
+# ---- 运行产物 ----
+*.log
+
+# ---- 独立仓库（已单独发布，不重复跟踪）----
+week1/
+week13/project/
